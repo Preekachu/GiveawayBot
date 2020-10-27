@@ -1,21 +1,21 @@
 module.exports = {
 
-    token: "XXX", //Token bot
+    token: "NzY1ODAwMDkyMjU4Nzk1NTMw.X4aE6Q.zp4j379kptgfIeEUE99gRy66M7k", //Token bot
 
-    idbot: "XXX", //Bot ID
+    idbot: "765800092258795530", //Bot ID
 
-    prefix: "XXX", //Bot prefix
+    prefix: "!", //Bot prefix
 
     basiclang: "en", //The basic language of the bot, "fr" for French and "en" for English
 
     embeds: {
         color: "BLUE", //Embed color (in English)
-        footers: "Kurmy template by !Zerio.js#2020" //Embed footer
+        footers: "My Master, Preekachu#0001" //Embed footer
     },
 
     start: {
-        loading: "XXX", //Loading status
-        activity: "XXX" //Status
+        loading: "yo", //Loading status
+        activity: "watching" //Status
     },
 
     events: {
@@ -28,7 +28,7 @@ module.exports = {
     grole: "Giveaways", //If the member doesn't have permission to handle messages he can still use the giveaways commands if he has the role configured right here
 
     auth: {
-        support: "XXX", //The link of your Discord server
+        support: "https://discord.gg/ResNgxJ", //The link of your Discord server
         dperms: "8" //The permissions that the bot asks on we want to add it on a Discord server (8 = moderator)
     },
 };
